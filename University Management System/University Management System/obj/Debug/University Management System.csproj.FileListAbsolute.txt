@@ -1,0 +1,17 @@
+c:\users\masterchief\documents\visual studio 2015\Projects\University Management System\University Management System\bin\Debug\University Management System.exe.config
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\bin\Debug\University Management System.exe
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\bin\Debug\University Management System.pdb
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.loginForm.resources
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.Cache
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University Management System.exe
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University Management System.pdb
+C:\Users\MasterChief\documents\visual studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.university_management.resources
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.student_management.resources
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\bin\Debug\management.mdf
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\bin\Debug\management_log.ldf
+C:\Users\MasterChief\Documents\Visual Studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.teacher_management.resources
+C:\Users\MasterChief\documents\visual studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.manage_course.resources
+C:\Users\MasterChief\documents\visual studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.assign_student_course.resources
+C:\Users\MasterChief\documents\visual studio 2015\Projects\University Management System\University Management System\obj\Debug\University_Management_System.gpa.resources
